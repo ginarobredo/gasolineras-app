@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gasolineras-app/static/css/main.722eafe8.css",
+    "main.js": "/gasolineras-app/static/js/main.4e882a70.js",
+    "static/js/453.ca4a5bcd.chunk.js": "/gasolineras-app/static/js/453.ca4a5bcd.chunk.js",
+    "index.html": "/gasolineras-app/index.html",
+    "main.722eafe8.css.map": "/gasolineras-app/static/css/main.722eafe8.css.map",
+    "main.4e882a70.js.map": "/gasolineras-app/static/js/main.4e882a70.js.map",
+    "453.ca4a5bcd.chunk.js.map": "/gasolineras-app/static/js/453.ca4a5bcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.722eafe8.css",
+    "static/js/main.4e882a70.js"
+  ]
+}
